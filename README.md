@@ -1,3 +1,7 @@
+### LIVE PREVIEW (STATIC)
+
+https://happ.daantolsma.nl/
+
 # deka
 
 ## Build Setup
